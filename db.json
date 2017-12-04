@@ -1,3 +1,10 @@
 {
-  "skills": ["Vue", "Swift", "Vapor", "JavaScript", "Webpack", "Leaf"]
+  "skills": [
+    { "id": 1, "title": "Vue" },
+    { "id": 2, "title": "Swift" },
+    { "id": 3, "title": "Vapor" },
+    { "id": 4, "title": "Javascript" },
+    { "id": 5, "title": "Webpack" },
+    { "id": 6, "title": "Leaf" }
+  ]
 }
