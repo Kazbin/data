@@ -8,7 +8,7 @@
     { "id": 6, "title": "Leaf" }
   ],
   "projects": [
-    { "name": "Project 1", "description": "This is project #1"},
-    { "name": "Project 2", "description": "This is project #2"}
+    { "id": 1, "name": "Project 1", "description": "This is project #1"},
+    { "id": 2, "name": "Project 2", "description": "This is project #2"}
   ]
 }
